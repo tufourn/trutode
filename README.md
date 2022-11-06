@@ -22,11 +22,12 @@ From the [Discord Developer Portal](https://discord.com/developers/), create you
 
 ### Step 2: Creating the Google sheet for list of questions
 
-Create a google sheet with 2 sheets, ``Truth`` and ``Dare``. For each sheet, type in ``Question`` for the first row, then fill the column with your list of questions.
+Create a google sheet with 2 sheets, ``Truth`` and ``Dare``. For each sheet, type in ``Question`` for the first row, then fill the column with your list of questions. A sample list of questions is provided.
+
 Share the sheet and note down its ID.
 
 
-### Step 3: Creating the ``.env`` file 
+### Step 3: Creating the ``.env`` file
 Create a ``.env`` file with the following information:
 
 ```
